@@ -1,0 +1,2 @@
+#write a program to create a string "good morning friends how are you all" and do the operations : display in reverse order of chaeacters,
+#  split whole sentence into individual words and store as a list 
